@@ -1,0 +1,1 @@
+postal -t 60 -m 30 -c 9 -f sender express-relay.jangosmtp.net recipients
